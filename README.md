@@ -27,9 +27,6 @@ I'm an experienced web developer from Tabriz, Iran with over 15 years of hands-o
 ### 🦀 Rust Projects
 - CLI tools and learning projects (in progress)
 
-### 🌐 Zen Browser
-- A lightweight browser published in [Fedora Copr](https://copr.fedorainfracloud.org/coprs/hamidpeywasti/Zen/)
-
 ---
 
 ## 📬 Contact & More
