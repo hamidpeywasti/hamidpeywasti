@@ -22,7 +22,7 @@ I'm an experienced web developer from Tabriz, Iran with over 15 years of hands-o
 - [`contao-podcast-bundle`](https://github.com/respinar/contao-podcast-bundle): Adds podcast support to Contao websites
 
 ### 🧠 Machine Learning Projects
-- [`machine-learning`](https://github.com/hamidpeywasti/machine-learning): ML experiments using TensorFlow, Keras, and CNNs for classification
+- [`machine-learning`](https://github.com/hamidpeywasti/machine-learning): ML experiments using TensorFlow, Keras, and CNNs
 
 ### 🦀 Rust Projects
 - CLI tools and learning projects (in progress)
