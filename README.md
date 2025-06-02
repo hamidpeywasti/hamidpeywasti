@@ -39,6 +39,9 @@ In addition to my web development background, I have an academic and research ba
 
 ## 🚀 Featured Projects
 
+> 🔄 Many of my **Contao CMS projects** are hosted under the [respinar](https://github.com/respinar) GitHub organization.  
+> These include bundles and extensions developed for production use in real-world websites.
+
 ### 🧩 Contao CMS Bundles
 - [`contao-tableofcontents`](https://github.com/respinar/contao-tableofcontents): Adds automatic table of contents to articles using JavaScript
 - [`contao-glide-bundle`](https://github.com/respinar/contao-glide-bundle): Integrates Glide.js slider into Contao CMS
@@ -51,9 +54,8 @@ In addition to my web development background, I have an academic and research ba
 
 ### 🧪 Scientific Code (Physics)
 - DFT simulations using WIEN2k (not public — available upon request)
-
-### 🦀 Rust Projects
-- CLI tools and learning projects (in progress)
+- [`computational-physics`](https://github.com/hamidpeywasti/computational-physics):  
+  A collection of numerical and simulation-based physics projects written in **Fortran**. Topics include classical mechanics, statistical physics, quantum systems, and numerical integration methods.
 
 ---
 
