@@ -13,8 +13,8 @@ In addition to my web development background, I have an academic and research ba
   Thesis: *"A Deep Convolutional Neural Network Based on the CIE LAB Color Space for Efficient Plant Disease Classification"*  
   Focused on CNNs, LAB color space, image preprocessing, and training with custom datasets.
 
-- **M.Sc. in Physics**
-  *Sharif University of Technology* (2006)
+- **M.Sc. in Physics**  
+  *Sharif University of Technology* (2006)  
   Thesis: *"Synthesis of Superconducting Materials Using the Sol-Gel Method"*  
   - Investigated synthesis of high-temperature superconductors.  
   - Modeled electronic structure of superconducting materials using **WIEN2k** (DFT-based simulation tool).
