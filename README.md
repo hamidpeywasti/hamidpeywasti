@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hamid Peywasti
 
-I'm an experienced web developer from Tabriz, Iran, with over 15 years of hands-on experience in both frontend and backend development. I specialize in CMS development, custom plugin/bundle creation, and technical SEO.
+I'm an experienced web developer from Tabriz, Iran, with over 10 years of hands-on experience in both frontend and backend development. I specialize in CMS development, custom plugin/bundle creation, and technical SEO.
 
 In addition to my web development background, I have an academic and research background in both **Physics** and **Computer Engineering**, with published thesis-level work in **superconducting materials** and **deep learning for image classification**.
 
@@ -9,16 +9,17 @@ In addition to my web development background, I have an academic and research ba
 ## 🎓 Education & Research
 
 - **M.Sc. in Computer Engineering**  
-  *University Name* (2025)  
+  *Tabriz University* (2024)  
   Thesis: *"A Deep Convolutional Neural Network Based on the CIE LAB Color Space for Efficient Plant Disease Classification"*  
   Focused on CNNs, LAB color space, image preprocessing, and training with custom datasets.
 
-- **M.Sc. in Physics – Sharif University of Technology**  
+- **M.Sc. in Physics**
+  *Sharif University of Technology* (2006)
   Thesis: *"Synthesis of Superconducting Materials Using the Sol-Gel Method"*  
   - Investigated synthesis of high-temperature superconductors.  
   - Modeled electronic structure of superconducting materials using **WIEN2k** (DFT-based simulation tool).
 
-- **B.Sc. in Physics**  
+- **B.Sc. in Physics** (2003)
   Solid foundation in mathematical modeling, scientific computing, and analytical thinking.
 
 ---
