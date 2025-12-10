@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Hamid Peywasti
+# Hello, I'm Hamid Peywasti
 
-I'm an experienced web developer from Tabriz, Iran, with over 10 years of hands-on experience in both frontend and backend development. I specialize in CMS development, custom plugin/bundle creation, and technical SEO.
+I'm an experienced web developer from Tabriz, with over 15 years of hands-on experience in frontend and backend development. I specialize in Contao CMS development, custom plugin creation, and technical SEO.
 
 In addition to my web development background, I have an academic and research background in both **Physics** and **Computer Engineering**, with published thesis-level work in **superconducting materials** and **deep learning for image classification**.
 
@@ -32,9 +32,9 @@ In addition to my web development background, I have an academic and research ba
 - **Custom Development**: Creating Contao bundles and WordPress plugins
 - **Technical SEO**: Performance optimization, loading time, structure
 - **Linux & CLI Tools**: Shell scripting, tmux, SSH, VPS administration
-- **AI & ML**: Image classification, CNNs, Python, PyTorch, TensorFlow
+- **AI & ML**: Image classification, CNNs, Python, NumPy, TensorFlow
 - **Scientific Computing**: WIEN2k, materials modeling, numerical simulation
-- **Active Learner**: Continuously exploring Rust, DevOps, and advanced ML engineering
+- **Active Learner**: Continuously exploring advanced ML engineering, DevOps, and Programming
 
 ---
 
@@ -43,15 +43,17 @@ In addition to my web development background, I have an academic and research ba
 > 🔄 Many of my **Contao CMS projects** are hosted under the [respinar](https://github.com/respinar) GitHub organization.  
 > These include bundles and extensions developed for production use in real-world websites.
 
-### 🧩 Contao CMS Bundles
-- [`contao-tableofcontents`](https://github.com/respinar/contao-tableofcontents): Adds automatic table of contents to articles using JavaScript
-- [`contao-glide-bundle`](https://github.com/respinar/contao-glide-bundle): Integrates Glide.js slider into Contao CMS
-- [`contao-simplefaq-bundle`](https://github.com/respinar/contao-simplefaq-bundle): Flexible FAQ module with Schema.org support
-- [`contao-podcast-bundle`](https://github.com/respinar/contao-podcast-bundle): Adds podcast support to Contao websites
-
 ### 🧠 Machine Learning Projects
 - [`plant-disease-cnn-lab`](https://github.com/hamidpeywasti/plant-disease-cnn-lab): Thesis project on LAB-space CNN for plant disease classification
 - [`machine-learning`](https://github.com/hamidpeywasti/machine-learning): ML experiments using TensorFlow, Keras, and CNNs
+
+### 🧩 Contao CMS Bundles
+- [`contao-products`](https://github.com/respinar/contao-products)
+- [`contao-owlcarousel`](https://github.com/respinar/contao-owlcarousel) 
+- [`contao-tableofcontents`](https://github.com/respinar/contao-tableofcontents): Adds automatic table of contents to articles using JavaScript
+- [`contao-simplefaq`](https://github.com/respinar/contao-simplefaq): Flexible FAQ module with Schema.org support
+- [`contao-podcast-bundle`](https://github.com/respinar/contao-podcast-bundle): Adds podcast support to Contao websites
+- 
 
 ### 🧪 Scientific Code (Physics)
 - DFT simulations using WIEN2k (not public — available upon request)
@@ -63,8 +65,8 @@ In addition to my web development background, I have an academic and research ba
 ## 📬 Contact & More
 
 📧 hamidpeywasti@gmail.com  
-🌍 [www.fooladgharb.com](https://fooladgharb.com)  
-🌍 [www.vatan.bio](https://vatan.bio)  
+🌍 [fooladgharb.com](https://fooladgharb.com)  
+🌍 [vatan.bio](https://vatan.bio)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/hamidpeywasti)
 
 Feel free to reach out for collaborations, freelance work, or open-source discussions!
